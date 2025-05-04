@@ -1,0 +1,3 @@
+create directory --name my_new_folder
+copy file --source original.txt --destination backup.txt
+delete file --name temp.log
